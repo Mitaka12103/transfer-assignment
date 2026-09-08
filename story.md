@@ -1,0 +1,3 @@
+## Git
+
+Git (/ɡɪt/ [8]) is a distributed version control software system[9] that is capable of managing versions of source code or data. It is often used to control source code by programmers who are developing software collaboratively. It was originally created by Linus Torvalds for version control in the development of the Linux kernel.[10]Design goals of Git include speed, data integrity, and support for distributed, non-linear workflows—thousands of parallel branches running on different computers.[11][12][13]
